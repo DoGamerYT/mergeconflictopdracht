@@ -5,3 +5,6 @@
 }
 
 module.exports = {greet}; 
+["Toward those short trees",
+"We saw a hawk descending",
+"On a day in spring."]
