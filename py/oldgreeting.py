@@ -1,3 +1,3 @@
-def greet():
-    greeting="hello welcome to this exersise!"
-    print(greeting)
+let (greet);
+    greeting="Greetings my fellow human, you are here to be seen!"
+    consol.log (greeting)
